@@ -7,7 +7,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <name>demo spring cache</name>
   <properties>
 
-        <spring-framework.version>3.2.5.RELEASE</spring-framework.version>
+        <spring-framework.version>5.2.0.RELEASE</spring-framework.version>
        
         <ehcache.version>2.6.6</ehcache.version>
 
